@@ -1,1 +1,1 @@
-# covid19br-weekly-change
+# Weekly Change of Covid-19 in Brazil
